@@ -9,7 +9,8 @@
 従来のFDTD法では差分演算子を用いるため、これによる誤差は避けることができない。そこで、波動方程式の解より導き出される高精度差分法(Non-Standard FDTD)が提案されている。
 研究では2次元でのNS-FDTDを実装している。詳細について、先輩の論文より抜粋
 
-![image](https://user-images.githubusercontent.com/57475794/94405454-8b1e8280-01ab-11eb-839e-c48b44eed10f.png)
+![image](https://user-images.githubusercontent.com/57475794/94405784-02541680-01ac-11eb-9e61-608a4c1ee0f6.png)
+
 
 ![image](https://user-images.githubusercontent.com/57475794/94405606-c456f280-01ab-11eb-9081-97dc93ebddd7.png)
 
