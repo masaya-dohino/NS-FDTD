@@ -38,6 +38,10 @@ FDTD シミュレーションにおいて必要となる値は、散乱体付近
 （参考：https://www.kao.com/jp/haircare/hair/1-3/）
 
 ### シミュレーション空間でのモデル定義について
-編集中・・
+
+![image](https://user-images.githubusercontent.com/57475794/219877775-7602c8c2-9437-45f3-8cf6-74dce79fe33f.png)
+
 ## シミュレーション結果
-色変換へ
+
+![image](https://user-images.githubusercontent.com/57475794/219877798-d540c297-b597-43d9-a127-58a6c00e6ce6.png)
+
